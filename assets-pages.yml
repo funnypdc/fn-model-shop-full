@@ -1,0 +1,43 @@
+name: Deploy Pages
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - id: attempt1
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+      - if: steps.attempt1.outcome == 'failure'
+        run: |
+          echo "Deploy failed. Retrying in:"
+          for i in $(seq 30 -1 1); do echo "  ${i}s..."; sleep 1; done
+      - id: attempt2
+        if: steps.attempt1.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+      - if: steps.attempt2.outcome == 'failure'
+        run: |
+          echo "Deploy failed again. Retrying in:"
+          for i in $(seq 60 -1 1); do echo "  ${i}s..."; sleep 1; done
+      - if: steps.attempt2.outcome == 'failure'
+        uses: actions/deploy-pages@v4

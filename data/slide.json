@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "image": "/slide/slide1.jpg",
+    "title": "",
+    "subtitle": "",
+    "active": true
+  },
+  {
+    "id": 2,
+    "image": "/slide/slide1.jpg",
+    "title": "",
+    "subtitle": "",
+    "active": true
+  }
+]

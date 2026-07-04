@@ -1,0 +1,1335 @@
+[
+ {
+    "id": "wltoys-boeing-787",
+    "name": "WLtoys Boeing 787",
+    "description": "เครื่องบินฝึกบินสำหรับมือใหม่ ระบบการทำงาน3ch โฟมเหนียวทนทาน บินง่าย",
+    "price": 1990,
+    "originalPrice": null,
+    "category": "beginner",
+    "image": "/product/Boeing787-4-03.jpg",
+    "images": [
+      "/product/Boeing787-1-03.jpg",
+      "/product/Boeing787-2-03.jpg",
+      "/product/Boeing787-3-03.jpg",
+      "/product/Boeing787-4-03.jpg",
+      "/product/Boeing787-5-03.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": true },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด RTF พร้อมบิน", 
+        "price": 1990,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "WLtoys Boeing 787 เครื่องบินบังคับ 3ch ควบคุมง่ายเหมาะสำหรับเด็กอายุ 5-10 ขวบ วัสดุโฟมเหนียว EPP บินได้ 20-25 นาทีต่อแบต1ก้อน ระยะควบคุมประมาณ 200 เมตร และมีไจโรช่วยควบคุมและทรงตัวในการบินให้อัตโนมัติ ความยาวปีก (Wingspan) ประมาณ 320–350 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "wltoys-boeing-747",
+    "name": "WLtoys Boeing 747",
+    "description": "เครื่องบินฝึกบินสำหรับมือใหม่ ระบบการทำงาน3ch โฟมเหนียวทนทาน บินง่าย",
+    "price": 2290,
+    "originalPrice": null,
+    "category": "beginner",
+    "image": "/product/Boeing747-2-03.jpg",
+    "images": [
+      "/product/Boeing747-1-03.jpg",
+      "/product/Boeing747-2-03.jpg",
+      "/product/Boeing747-3-03.jpg",
+      "/product/Boeing747-4-03.jpg",
+      "/product/Boeing747-5-03.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": true },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 2290,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "WLtoys Boeing 747 เครื่องบินบังคับ 3ch ควบคุมง่ายเหมาะสำหรับเด็กอายุ 5-10 ขวบ วัสดุโฟมเหนียว EPP บินได้ 20-25 นาทีต่อแบต1ก้อน ระยะควบคุมประมาณ 200 เมตร และมีไจโรช่วยควบคุมและทรงตัวในการบินให้อัตโนมัติ ความยาวปีก (Wingspan) 490 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "wltoys-aircar-a380",
+    "name": "Wltoys Aircar A380",
+    "description": "เครื่องบินฝึกบินสำหรับมือใหม่ ระบบการทำงาน3ch โฟมเหนียวทนทาน บินง่าย",
+    "price": 2290,
+    "originalPrice": null,
+    "category": "beginner",
+    "image": "/product/A380-3.jpg",
+    "images": [
+      "/product/A380-1.jpg",
+      "/product/A380-2.jpg",
+      "/product/A380-3.jpg",
+      "/product/A380-4.jpg",
+      "/product/A380-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": true },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 2290,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "Wltoys Aircar A380 เครื่องบินบังคับ 3ch ควบคุมง่ายเหมาะสำหรับเด็กอายุ 5-10 ขวบ วัสดุโฟมเหนียว EPP บินได้ 20-25 นาทีต่อแบต1ก้อน ระยะควบคุมประมาณ 200 เมตร และมีไจโรช่วยควบคุมและทรงตัวในการบินให้อัตโนมัติ ความยาวปีก (Wingspan) 505–510 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "wltoys-cessna-182",
+    "name": "WLtoys CESSNA-182",
+    "description": "เครื่องบินฝึกบินสำหรับมือใหม่ ระบบการทำงาน3ch โฟมเหนียวทนทาน บินง่าย",
+    "price": 1990,
+    "originalPrice": 2190,
+    "category": "beginner",
+    "image": "/product/cessna182-1-03.jpg",
+    "images": [
+      "/product/cessna182-1-03.jpg",
+      "/product/cessna182-2-03.jpg",
+      "/product/cessna182-3-03.jpg",
+      "/product/cessna182-4-03.jpg",
+      "/product/cessna182-5-03.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": true },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 1990,
+        "originalPrice": 2190,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "WLtoys CESSNA-182 เครื่องบินบังคับ 3ch ควบคุมง่ายเหมาะสำหรับเด็กอายุ 5-10 ขวบ วัสดุโฟมเหนียว EPP บินได้ 20-25 นาทีต่อแบต1ก้อน ระยะควบคุมประมาณ 200 เมตร และมีไจโรช่วยควบคุมและทรงตัวในการบินให้อัตโนมัติ ความยาวปีก (Wingspan) 500 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "zealyi-cessna-182",
+    "name": "ZEALYI CESSNA-182",
+    "description": "เครื่องบินฝึกบินสำหรับมือใหม่ ระบบการทำงาน3ch โฟมเหนียวทนทาน บินง่าย",
+    "price": 1950,
+    "originalPrice": null,
+    "category": "beginner",
+    "image": "/product/cessna18200-4-03.jpg",
+    "images": [
+      "/product/cessna18200-1-03.jpg",
+      "/product/cessna18200-2-03.jpg",
+      "/product/cessna18200-3-03.jpg",
+      "/product/cessna18200-4-03.jpg",
+      "/product/cessna18200-5-03.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": true },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": true }
+    ],
+    "packages": [
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 1950,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "ZEALYI CESSNA-182 เครื่องบินบังคับ 3ch ควบคุมง่ายเหมาะสำหรับเด็กอายุ 5-10 ขวบ วัสดุโฟมเหนียว EPP บินได้ 20-25 นาทีต่อแบต1ก้อน ระยะควบคุมประมาณ 200 เมตร และมีไจโรช่วยควบคุมและทรงตัวในการบินให้อัตโนมัติ ความยาวปีก (Wingspan) 500 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "volantex-spcub-500",
+    "name": "volantex sport cub 500",
+    "description": "เครื่องบินฝึกบินสำหรับมือใหม่ ระบบการทำงาน4ch โฟมเหนียวทนทาน บินง่าย",
+    "price": 2890,
+    "originalPrice": 2990,
+    "category": "beginner",
+    "image": "/product/Sport Cub-2-03.jpg",
+    "images": [
+      "/product/Sport Cub-1-03.jpg",
+      "/product/Sport Cub-2-03.jpg",
+      "/product/Sport Cub-3-03.jpg",
+      "/product/Sport Cub-4-03.jpg",
+      "/product/Sport Cub-5-03.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": true },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 2890,
+        "originalPrice": 2990,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "volantex sport cub 500 เครื่องบินบังคับ 4ch ควบคุมง่ายเหมาะสำหรับมือใหม่ที่ต้องการ การควบคุมแบบเครื่องบินลำใหญ่ เพื่อต่อยอดเลื่อนขั้นไปสู่การบินงานHobby วัสดุโฟมเหนียว EPP บินได้ 20-25 นาทีต่อแบต1ก้อน ระยะควบคุมประมาณ 200 เมตร และมีไจโรช่วยควบคุมและทรงตัวในการบินให้อัตโนมัติ ความยาวปีก (Wingspan) 500 mm",
+    "inStock": true,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "volantex-trainstar-stunt-500",
+    "name": "volantex Trainstar Stunt 500",
+    "description": "เครื่องบินฝึกบินสำหรับมือใหม่ ระบบการทำงาน4ch โฟมเหนียวทนทาน บินง่าย",
+    "price": 3950,
+    "originalPrice": null,
+    "category": "beginner",
+    "image": "/product/Trainstar Stunt-5-03.jpg",
+    "images": [
+      "/product/Trainstar Stunt-1-03.jpg",
+      "/product/Trainstar Stunt-2-03.jpg",
+      "/product/Trainstar Stunt-3-03.jpg",
+      "/product/Trainstar Stunt-4-03.jpg",
+      "/product/Trainstar Stunt-5-03.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": true },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 3950,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "volantex Trainstar Stunt 500 เครื่องบินบังคับ 4ch ควบคุมง่ายเหมาะสำหรับมือใหม่ที่ต้องการ การควบคุมแบบเครื่องบินลำใหญ่ เพื่อต่อยอดเลื่อนขั้นไปสู่การบินงานHobby วัสดุโฟมเหนียว EPP บินได้ 20-25 นาทีต่อแบต1ก้อน ระยะควบคุมประมาณ 200 เมตร และมีไจโรช่วยควบคุมและทรงตัวในการบินให้อัตโนมัติ ความยาวปีก (Wingspan) 500 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "fms1220mm-Ranger",
+    "name": "FMS 1220mm Ranger",
+    "description": "เครื่องบินบังคับสำหรับมือใหม่ ระบบการทำงาน4ch โฟมแข็ง บินง่าย ลำใหญ่",
+    "price": 6190,
+    "originalPrice": null,
+    "category": "beginner",
+    "image": "/product/Ranger1.jpg",
+    "images": [
+      "/product/Ranger1.jpg",
+      "/product/Ranger2.jpg",
+      "/product/Ranger3.jpg",
+      "/product/Ranger4.jpg",
+      "/product/Ranger5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": true },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 6190,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 9950,
+        "originalPrice": 10290,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "FMS 1220mm Ranger เครื่องบินบังคับ 4ch ควบคุมง่ายเหมาะสำหรับมือใหม่ สำหรับการควบคุมเครื่องบินลำใหญ่ วัสดุโฟมแข็ง EPO บินได้ 6-9 นาทีต่อแบต1ก้อน และมีไจโรช่วยควบคุมและทรงตัวในการบินให้อัตโนมัติ ใช้แบตขนาด 3S LiPo 1300mAh ความยาวปีก (Wingspan) 1200 mm",
+    "inStock": true,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "fms-1300mmsuper-Cub",
+    "name": "FMS 1300mm PA-18 Super Cub",
+    "description": "เครื่องบินบังคับสเกลสวย สมจริง ระบบการทำงาน6CH โฟมแข็ง บินง่าย ลำใหญ่",
+    "price": 7900,
+    "originalPrice": null,
+    "category": "beginner",
+    "image": "/product/PA18-1.jpg",
+    "images": [
+      "/product/PA18-1.jpg",
+      "/product/PA18-2.jpg",
+      "/product/PA18-3.jpg",
+      "/product/PA18-4.jpg",
+      "/product/PA18-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": true },
+      { "label": "ระบบแฟลบ", "have": true },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": true }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 7900,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 12990,
+        "originalPrice": 13200,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "FMS 1300mm PA-18 Super Cub เครื่องบินบังคับ 6CH สไตล์ Bush Plane บินง่าย เหมาะสำหรับผู้เริ่มต้นจนถึงระดับกลาง มาพร้อม Flaps, ไฟ LED และระบบ Reflex Gyro ช่วยเพิ่มความเสถียรในการบิน ตัวเครื่องผลิตจากโฟม EPO แข็งแรง บินได้นานประมาณ 6–10 นาทีต่อแบตเตอรี่ 1 ก้อน ใช้แบตขนาด 3S LiPo 2200mAh ความยาวปีก (Wingspan) 1300 mm",
+    "inStock": true,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "fms-1700mmsuper-Cub",
+    "name": "FMS 1700mm PA-18 Super Cub",
+    "description": "เครื่องบินบังคับสเกลสวย สมจริง ระบบการทำงาน6CH โฟมแข็ง บินง่าย ลำใหญ่",
+    "price": 9900,
+    "originalPrice": 10990,
+    "category": "beginner",
+    "image": "/product/PA18-4.jpg",
+    "images": [
+      "/product/PA18-6.jpg",
+      "/product/PA18-2.jpg",
+      "/product/PA18-3.jpg",
+      "/product/PA18-4.jpg",
+      "/product/PA18-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": true },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": true }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 9900,
+        "originalPrice": 10900,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 14990,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "FMS 1700mm PA-18 Super Cub V2 เครื่องบินบังคับ 6CH ขนาดใหญ่สไตล์ Bush Plane บินนิ่งและมีสมรรถนะ STOL เหมาะสำหรับนักบินระดับกลางขึ้นไป มาพร้อม Flaps, ไฟ LED และระบบ Reflex Gyro ช่วยเพิ่มความเสถียรในการบิน ตัวเครื่องผลิตจากโฟม EPO แข็งแรง ใช้แบตขนาด 4S LiPo 2200–2600mAh ความยาวปีก (Wingspan) 1700 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "fms-1500mm-cessna-182",
+    "name": "FMS 1500mm Cessna 182",
+    "description": "เครื่องบินบังคับสมจริงสเกลCessna 182 ระบบการทำงาน6CH โฟมแข็ง บินง่าย ลำใหญ่",
+    "price": 9990,
+    "originalPrice": 10500,
+    "category": "beginner",
+    "image": "/product/FMSCessna1.jpg",
+    "images": [
+      "/product/FMSCessna1.jpg",
+      "/product/FMSCessna2.jpg",
+      "/product/FMSCessna3.jpg",
+      "/product/FMSCessna4.jpg",
+      "/product/FMSCessna5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": true },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": true }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 9990,
+        "originalPrice": 10500,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 15990,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "FMS 1500mm Cessna 182 เครื่องบินบังคับ 6CH สไตล์เครื่องบินพลเรือน บินนิ่ง ควบคุมง่าย เหมาะสำหรับผู้เริ่มต้นที่มีพื้นฐานและนักบินระดับกลาง มาพร้อม Flaps, ไฟ LED และระบบ Reverse Thrust ช่วยให้การลงจอดง่ายและสมจริง ตัวเครื่องผลิตจากโฟม EPO แข็งแรง ใช้แบตขนาด 4S LiPo 2200–3200mAh ความยาวปีก (Wingspan) 1500 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "fms-1500mm-maule",
+    "name": "FMS 1500mm Maule",
+    "description": "เครื่องบินบังคับสายลุยสไตล์ STOL FMS Maule ระบบ 6CH ชุดล้อโต ขนาด 1500mm",
+    "price": 9700,
+    "originalPrice": null,
+    "category": "beginner",
+    "image": "/product/FMSMaule1.jpg",
+    "images": [
+      "/product/FMSMaule1.jpg",
+      "/product/FMSMaule2.jpg",
+      "/product/FMSMaule3.jpg",
+      "/product/FMSMaule4.jpg",
+      "/product/FMSMaule5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": true },
+      { "label": "ระบบแฟลบ", "have": true },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": true }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 9700,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 14590,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "FMS 1500mm Maule เครื่องบินบังคับแนว Bush Plane สมรรถนะ STOL ขึ้นลงระยะสั้นได้ดีเยี่ยมภายใน 3 เมตร ตัวลำทำจากโฟม EPO แข็งแรง ทนทาน มีดีเทลสมจริงรอบลำ และสลับใช้งานได้ทั้งล้อโตและทุ่นลอยน้ำสำหรับเล่นบนผิวน้ำ มีระบบ Reflex Gyro ช่วยให้บินนิ่งและเสถียรมาก ใช้แบตขนาด 3S - 4S LiPo 2200–3200mAh ความยาวปีก (Wingspan) 1500 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "xfly-1500mm-tasman",
+    "name": "XFly 1500MM Tasman",
+    "description": "เครื่องบินบังคับสายลุย สปอร์ตแอร์โรแบติก ระบบ 5-6CH โฟมEPO ล้อโต ขนาด 1500mm",
+    "price": 7590,
+    "originalPrice": null,
+    "category": "beginner",
+    "image": "/product/XFlyTasman1.jpg",
+    "images": [
+      "/product/XFlyTasman1.jpg",
+      "/product/XFlyTasman2.jpg",
+      "/product/XFlyTasman3.jpg",
+      "/product/XFlyTasman4.jpg",
+      "/product/XFlyTasman5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": true },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": true }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 7590,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 11950,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "XFly 1500mm Tasman เครื่องบินบังคับสไตล์ Bush Plane ล้อโตเติมลมซับแรงกระแทกได้ดีเยี่ยม ช่วยให้ขึ้นลงทางวิบากและทำสมรรถนะ STOL ได้อย่างง่ายดาย ตัวลำเป็นโฟม EPO เสริมคอมโพสิตแข็งแรง บินสนุกได้ทั้งแนวเทรนเนอร์และท่าวัดใจ 3D แอร์โรแบติก สิ่งที่ต้องมีตบท้ายคือใช้แบตขนาด 4S LiPo 2200–3300mAh ความยาวปีก (Wingspan) 1500 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "xfly-p68-850mm-twin-powered",
+    "name": "XFly P68 850MM Twin Powered",
+    "description": "เครื่องบินบังคับมอเตอร์คู่สเกลพาร์คฟลายเออร์ XFly P68 ระบบ 4CH โฟมEPO บินง่าย ขนาดพกพา 850mm",
+    "price": 3990,
+    "originalPrice": null,
+    "category": "beginner",
+    "image": "/product/XFlyP681.jpg",
+    "images": [
+      "/product/XFlyP681.jpg",
+      "/product/XFlyP682.jpg",
+      "/product/XFlyP683.jpg",
+      "/product/XFlyP684.jpg",
+      "/product/XFlyP685.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": true }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 3990,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 7990,
+        "originalPrice": 8200,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "XFly P68 850mm เครื่องบินบังคับพาร์คฟลายเออร์สองเครื่องยนต์สเกลสมจริง ขนาดกะทัดรัดพกพาสะดวก ตัวลำทำจากโฟม EPO แข็งแรง ประกอบง่ายโดยไม่ต้องใช้กาว ให้พลังขับเคลื่อนสูงและเสถียรภาพการบินที่ดีเยี่ยมด้วยระบบมอเตอร์คู่ บินง่ายและคล่องตัวสูง เหมาะสำหรับผู้เริ่มต้นและบินเล่นในพื้นที่จำกัด สิ่งที่ต้องมีตบท้ายคือใช้แบตขนาด 3S LiPo 800–1300mAh ความยาวปีก (Wingspan) 850 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "trainer100-110-120mm",
+    "name": "Trainer 100-110-120mm",
+    "description": "เครื่องบินบังคับTrainer ฝีมือคนไทยสำหรับฝึกบินมีหลายลาย หลายขนาด",
+    "price": 2890,
+    "originalPrice": null,
+    "category": "beginner",
+    "image": "/product/Trainer.jpg",
+    "images": [
+      "/product/Trainer.jpg",
+      "/product/Trainer2.jpg",
+      "/product/Trainer3.jpg",
+      "/product/Trainer4.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 2890,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 6990,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "เครื่องบินบังคับTrainer ฝีมือคนไทยสำหรับฝึกบินมีหลายลาย หลายขนาด หลายสี หลายแบบ ปีกบนบินง่ายเหมาะสำหรับมือใหม่ ติดตั้งไจโรช่วยบินได้ มีขนาดให้เลือกตั้งแต่ปีก 100-110-120mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "sporter100-110-120mm",
+    "name": "Sporter 100-110-120mm",
+    "description": "เครื่องบินบังคับSporter ฝีมือคนไทยสำหรับฝึกบิน สายบินเร็ว มีหลายลาย หลายขนาด",
+    "price": 2890,
+    "originalPrice": null,
+    "category": "beginner",
+    "image": "/product/Sporter3.jpg",
+    "images": [
+      "/product/Sporter3.jpg",
+      "/product/Sporter1.jpg",
+      "/product/Sporter2.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 2890,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 6990,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "เครื่องบินบังคับSporter ฝีมือคนไทยสำหรับฝึกบินสายบินเร็ว มีหลายลาย หลายขนาด หลายสี หลายแบบ ปีกบนบินง่ายเหมาะสำหรับมือใหม่ ติดตั้งไจโรช่วยบินได้ มีขนาดให้เลือกตั้งแต่ปีก 100-110-120mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "sporter100-110-120mmm",
+    "name": "Sporter 100-110-120mm",
+    "description": "เครื่องบินบังคับSporter ฝีมือคนไทยสำหรับฝึกบิน สายบินเร็ว มีหลายลาย หลายขนาด",
+    "price": 2890,
+    "originalPrice": null,
+    "category": "beginner",
+    "image": "/product/Sporter3.jpg",
+    "images": [
+      "/product/Sporter3.jpg",
+      "/product/Sporter1.jpg",
+      "/product/Sporter2.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 2890,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 6990,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "เครื่องบินบังคับSporter ฝีมือคนไทยสำหรับฝึกบินสายบินเร็ว มีหลายลาย หลายขนาด หลายสี หลายแบบ ปีกบนบินง่ายเหมาะสำหรับมือใหม่ ติดตั้งไจโรช่วยบินได้ มีขนาดให้เลือกตั้งแต่ปีก 100-110-120mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+
+
+
+  {
+    "id": "fms-64mm-fighting-falcon",
+    "name": "FMS 64mm F-16 Fighting Falcon",
+    "description": "เครื่องบินเจ็ตบังคับดักท์แฟนสเกลสมจริง F-16 Fighting Falcon 4-6CH โฟม EPO บินสนุกคล่องตัวสูง",
+    "price": 7990,
+    "originalPrice": null,
+    "category": "CutJet",
+    "size": "64mm",
+    "image": "/product/f16-64-1.jpg",
+    "images": [
+      "/product/f16-64-1.jpg",
+      "/product/f16-64-2.jpg",
+      "/product/f16-64-3.jpg",
+      "/product/f16-64-4.jpg",
+      "/product/f16-64-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": true }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 7990,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 13990,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "FMS 64mm F-16 เครื่องบินเจ็ตดักท์แฟน 11-12 ใบพัด สเกลถอดแบบโมเดลทหารได้สมจริง ทั้งเส้นพาเนลและอาวุธพ่วงท้าย ลำใหญ่ขึ้นแต่บินนิ่ง ลุยลมดี ให้ความคล่องตัวและทำความเร็วได้ยอดเยี่ยม เหมาะสำหรับผู้ที่ต้องการเริ่มต้นและพัฒนาฝีมือในการบินเจ็ตสเกล ใช้แบตขนาด 4S LiPo 2200–2600mAh ความยาวปีก (Wingspan) 712-740 mm",
+    "inStock": true,
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "fms-64mm-fa-18-horne",
+    "name": "FMS 64mm F/A-18 Hornet",
+    "description": "เครื่องบินเจ็ตบังคับดักท์แฟนสเกล FMS 64mm F/A-18 Hornet V2 4CH โฟม EPO คล่องตัวสูง ลายสวยคมชัด",
+    "price": 7590,
+    "originalPrice": 7990,
+    "category": "CutJet",
+    "size": "64mm",
+    "image": "/product/f18-64-1.jpg",
+    "images": [
+      "/product/f18-64-1.jpg",
+      "/product/f18-64-2.jpg",
+      "/product/f18-64-3.jpg",
+      "/product/f18-64-4.jpg",
+      "/product/f18-64-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 7590,
+        "originalPrice": 7990,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 13590,
+        "originalPrice": 13990,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "FMS 64mm F/A-18 Hornet V2 อัปเกรดระบบขับดันด้วยดักท์แฟน 11 ใบพัดและมอเตอร์ KV สูง ให้เสียงที่แน่นสมจริงสะใจ ตัวลำทำจากโฟม EPO แข็งแรงทนทาน ถอดประกอบและพกพาง่ายด้วยการยึดปีกแบบใช้น็อต บินง่ายคล่องตัวสูงทำความเร็วได้ดีเยี่ยม ใช้แบตขนาด 4S LiPo 2200mAh ความยาวปีก (Wingspan) 710 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "fms-64mm-futura",
+    "name": "FMS 64mm Futura",
+    "description": "เครื่องบินเจ็ตสปอร์ตบังคับดักท์แฟน FMS 64mm Futura V2 ระบบ 4CH โฟม EPO ดีไซน์ล้ำสมัย บินง่ายสมูททุกท่วงท่า",
+    "price": 7390,
+    "originalPrice": null,
+    "category": "CutJet",
+    "size": "64mm",
+    "image": "/product/Futura64-1.jpg",
+    "images": [
+      "/product/Futura64-1.jpg",
+      "/product/Futura64-2.jpg",
+      "/product/Futura64-3.jpg",
+      "/product/Futura64-4.jpg",
+      "/product/Futura64-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 7390,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 13390,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "FMS 64mm Futura เครื่องบินแนว Sport Jet ดีไซน์โฉบเฉี่ยวลดแรงต้านอากาศ มาพร้อมระบบดักท์แฟน 11 ใบพัดพละกำลังสูง ให้วงเลี้ยวที่แคบ บินนิ่งเสถียรและควบคุมง่ายอย่างน่าทึ่ง เหมาะสำหรับผู้ที่ต้องการฝึกบินเจ็ตท่าผาดโผนได้อย่างมั่นใจ ใช้แบตขนาด 4S LiPo 2200–2600mAh ความยาวปีก (Wingspan) 900 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "fms-64mm-rafale",
+    "name": "FMS 64mm Rafale",
+    "description": "เครื่องบินเจ็ตบังคับดักท์แฟนสเกล FMS 64mm Rafale ระบบ 6CH ปีกเดลต้า โฟม EPO แข็งแรง ลายเสือ NATO Tiger Meet",
+    "price": 7890,
+    "originalPrice": null,
+    "category": "CutJet",
+    "size": "64mm",
+    "image": "/product/Rafale64-1.jpg",
+    "images": [
+      "/product/Rafale64-1.jpg",
+      "/product/Rafale64-2.jpg",
+      "/product/Rafale64-3.jpg",
+      "/product/Rafale64-4.jpg",
+      "/product/Rafale64-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": true },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 7890,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 13890,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "FMS 64mm Rafale ถอดแบบรูปทรงปีกเดลต้าและคานาร์ดจากค่าย Dassault พร้อมลวดลายเสือพ่นน้ำอย่างปราณีต ขับเคลื่อนด้วยดักท์แฟน 11 ใบพัดพละกำลังสูง ให้สมรรถนะการบินผาดโผนที่คล่องตัวและทำความเร็วได้อย่างเร้าใจ เหมาะสำหรับนักบินระดับกลาง ใช้แบตขนาด 4S LiPo 2200–2600mAh ความยาวปีก (Wingspan) 740 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "fms-64mm-j10",
+    "name": "FMS 64mm J-10",
+    "description": "เครื่องบินเจ็ตบังคับดักท์แฟนสเกล FMS 64mm J-10 ระบบ Canard 6CH โฟม EPO แข็งแรง บินผาดโผนได้คล่องตัวสูง",
+    "price": 7890,
+    "originalPrice": null,
+    "category": "CutJet",
+    "size": "64mm",
+    "image": "/product/J-1064-1.jpg",
+    "images": [
+      "/product/J-1064-1.jpg",
+      "/product/J-1064-2.jpg",
+      "/product/J-1064-3.jpg",
+      "/product/J-1064-4.jpg",
+      "/product/J-1064-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": true },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": true }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 7890,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 13890,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "FMS 64mm J-10 ถอดแบบเครื่องบินรบ มังกรทะยาน ด้วยโครงสร้างปีกเดลต้าและคานาร์ดคู่หน้าที่ออกแบบมาเพื่อการบินเลี้ยววงแคบและการทำท่า High-Alpha ได้อย่างเร้าใจ ขับดันด้วยดักท์แฟน 11-12 ใบพัดพละกำลังสูง เสียงแน่นสะใจ ลุยลมได้อย่างมีประสิทธิภาพ เหมาะสำหรับนักบินที่ชอบสไตล์ดุดัน ใช้แบตขนาด 4S LiPo 2200–2600mAh ความยาวปีก (Wingspan) 690 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "xfly-64mm-T7a",
+    "name": "XFly 64mm T-7A Red Hawk",
+    "description": "เครื่องบินเจ็ตบังคับดักท์แฟนสเกล XFly 64mm T-7A Red Hawk ระบบ 4CH โฟม EPO ดีไซน์เครื่องฝึกหางแดง บินง่ายเสถียรสูง",
+    "price": 7390,
+    "originalPrice": 7550,
+    "category": "CutJet",
+    "size": "64mm",
+    "image": "/product/T7A64-1.jpg",
+    "images": [
+      "/product/T7A64-1.jpg",
+      "/product/T7A64-2.jpg",
+      "/product/T7A64-3.jpg",
+      "/product/T7A64-4.jpg",
+      "/product/T7A64-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 7390,
+        "originalPrice": 7550,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 13590,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "XFly 64mm T-7A Red Hawk จำลองเครื่องบินฝึกทหารลวดลายสะดุดตา ขับเคลื่อนด้วยดักท์แฟน 12 ใบพัดขนาด 64 มม. และมอเตอร์พละกำลังสูง ให้เสียงที่แน่นนุ่มนวลและแรงบิดที่ดี บินง่าย นิ่ง ทรงตัวได้เสถียรเหมาะสำหรับผู้เริ่มต้นบินเจ็ตดักท์แฟน ใช้แบตขนาด 4S LiPo 2200–2600mAh ความยาวปีก (Wingspan) 750 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "xfly-64mm-f35",
+    "name": "XFly 64MM F-35",
+    "description": "เครื่องบินเจ็ตบังคับดักท์แฟนสเกลสเตลธ์ XFly 64mm F-35 Lightning II ระบบ 4CH โฟม EPO แข็งแรง บินสนุกทรงพลัง",
+    "price": 9250,
+    "originalPrice": null,
+    "category": "CutJet",
+    "size": "64mm",
+    "image": "/product/f35-64-1.jpg",
+    "images": [
+      "/product/f35-64-1.jpg",
+      "/product/f35-64-2.jpg",
+      "/product/f35-64-3.jpg",
+      "/product/f35-64-4.jpg",
+      "/product/f35-64-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": true }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 9250,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 14870,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "XFly 64mm F-35 Lightning II ถอดแบบดีไซน์เครื่องบินรบล่องหนยุคที่ 5 ได้อย่างสวยงามคมชัด ขับดันด้วยระบบดักท์แฟน 12 ใบพัดขนาด 64 มม. ร่วมกับมอเตอร์รอบสูง ให้สุ้มเสียงที่แน่นทรงพลังและการไต่ระดับที่ทำได้อย่างง่ายดาย เหมาะสำหรับนักบินที่ชอบสไตล์โมเดลทหารร่วมสมัย ใช้แบตขนาด 4S LiPo 2200–2600mAh ความยาวปีก (Wingspan) 750 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "freewing-twin-64mm-f-14-tomcat",
+    "name": "Freewing Twin 64mm F-14 Tomcat",
+    "description": "เครื่องบินเจ็ตบังคับดักท์แฟนสเกลคู่ Freewing Twin 64mm F-14 Tomcat ระบบปีกลู่แปรผัน 6CH โฟม EPO แข็งแรง บินสนุกสะใจ",
+    "price": 19540,
+    "originalPrice": null,
+    "category": "CutJet",
+    "size": "64mm",
+    "image": "/product/f14TW64-1.jpg",
+    "images": [
+      "/product/f14TW64-1.jpg",
+      "/product/f14TW64-2.jpg",
+      "/product/f14TW64-3.jpg",
+      "/product/f14TW64-4.jpg",
+      "/product/f14TW64-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": true },
+      { "label": "ระบบไฟรอบลำ", "have": true }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 19540,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 26970,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "Freewing Twin 64mm F-14 Tomcat เครื่องบินเจ็ตดักท์แฟนคู่ดีไซน์ระดับท็อปฟอร์มด้วยกลไกปีกลู่แปรผันที่สามารถกดหุบหรือกางปีกได้จริงกลางอากาศเพื่อปรับเปลี่ยนสไตล์การบิน ตัวลำทำจากโฟม EPO เสริมคาร์บอน แข็งแกร่ง บินเร้าใจด้วยพละกำลังมอเตอร์คู่ให้สุ้มเสียงที่ดุดันสมจริง ใช้แบตขนาด 4S LiPo 3300–4000mAh ความยาวปีก (Wingspan) 720-1120 mm",
+    "inStock": false,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "freewing-64mm-f9f-v2",
+    "name": "Freewing 64MM F9F v2",
+    "description": "เครื่องบินเจ็ตบังคับดักท์แฟนสเกลคลาสสิก Freewing 64mm F9F Panther V2 ระบบ 3CH โฟม EPO แข็งแรง บินง่ายและคล่องตัว",
+    "price": 7590,
+    "originalPrice": null,
+    "category": "CutJet",
+    "size": "64mm",
+    "image": "/product/F9F64-1.jpg",
+    "images": [
+      "/product/F9F64-1.jpg",
+      "/product/F9F64-2.jpg",
+      "/product/F9F64-3.jpg",
+      "/product/F9F64-4.jpg",
+      "/product/F9F64-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 7590,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 13590,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "Freewing 64mm F9F Panther V2 เครื่องบินเจ็ตยุคแรกระดับตำนานที่ถูกอัปเกรดชุดไฟใหม่เป็นระบบ 4S ให้พละกำลังและการไต่ระดับที่แรงรวดเร็วทันใจ โครงสร้างโฟม EPO แข็งแรงทนทาน น้ำหนักเบา บินง่ายและนิ่งมาก เหมาะสำหรับผู้ที่ต้องการสัมผัสความเร็วของเครื่องเจ็ตดักท์แฟนเป็นลำแรก ใช้แบตขนาด 4S LiPo 1600–2200mAh ความยาวปีก (Wingspan) 685 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "arrows-64mm-f-15",
+    "name": "Arrows 64mm F-15",
+    "description": "เครื่องบินเจ็ทบังคับสเกลสมจริง Twin 64mm EDF F-15 ระบบ 6CH โฟม EPO ล้อพับไฟฟ้าพร้อมไฟ LED ขนาดปีก 900mm",
+    "price": 12990,
+    "originalPrice": null,
+    "category": "CutJet",
+    "size": "64mm",
+    "image": "/product/f15TW64-1.jpg",
+    "images": [
+      "/product/f15TW64-1.jpg",
+      "/product/f15TW64-2.jpg",
+      "/product/f15TW64-3.jpg",
+      "/product/f15TW64-4.jpg",
+      "/product/f15TW64-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": true },
+      { "label": "ระบบเก็บล้อ", "have": true },
+      { "label": "ระบบไฟรอบลำ", "have": true }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 12990,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 17870,
+        "originalPrice": 17990,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "Arrows Twin 64mm F-15 เครื่องบินเจ็ทขับเคลื่อนด้วยพัดลมไฟฟ้าคู่ Twin 64mm EDF 12 ใบพัด ให้เสียงแน่นทรงพลังสะใจ ตัวลำทำจากโฟม EPO เสริมคาร์บอนแข็งแรง ทำความเร็วและท่าผาดโผน High-Alpha ได้ยอดเยี่ยม มาพร้อมชุดล้อพับไฟฟ้า CNC และแฟลปช่วยลงจอดอย่างมั่นใจ สิ่งที่ต้องมีคือแบตเตอรี่ขนาด 6S LiPo 3300–4000mAh และมีความยาวปีก (Wingspan) 900 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "xfly-twin-40mm-F14-tomcat",
+    "name": "XFly Twin 40MM F-14 Tomcat",
+    "description": "เครื่องบินเจ็ทบังคับลู่ปีกได้สมจริงสเกล Twin 40mm EDF F-14 Tomcat ระบบ 6CH โฟม EPO บินสนุก ขนาดปีก 760mm",
+    "price": 7890,
+    "originalPrice": null,
+    "category": "CutJet",
+    "size": "40mm",
+    "image": "/product/f14TW40-1.jpg",
+    "images": [
+      "/product/f14TW40-1.jpg",
+      "/product/f14TW40-2.jpg",
+      "/product/f14TW40-3.jpg",
+      "/product/f14TW40-4.jpg",
+      "/product/f14TW40-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 7890,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 11990,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "XFly Twin 40mm F-14 Tomcat เจ็ทจิ๋วพลังขับเคลื่อนพัดลมไฟฟ้าคู่ Twin 40mm EDF มาพร้อมไฮไลท์เด่นกลไกพับปีกกาง-ลู่ปีกได้จริงกลางอากาศเพื่อทำความเร็วและแรงยกที่ต่างกัน ตัวลำทำจากโฟม EPO น้ำหนักเบา บินง่ายและให้ความคล่องตัวสูงในขนาดพกพาสะดวก สิ่งที่ต้องมีคือแบตเตอรี่ขนาด 4S LiPo 1300–2200mAh และมีความยาวปีก (Wingspan) 760 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "xfly-twin-40mm-su-57",
+    "name": "XFly Twin 40MM Su-57 V2",
+    "description": "เครื่องบินเจ็ทบังคับสเกลสมจริง Twin 40mm EDF Su-57 ระบบ 4CH โฟม EPO แข็งแรง บินท่าผาดโผนง่าย ขนาด 700mm",
+    "price": 6590,
+    "originalPrice": null,
+    "category": "CutJet",
+    "size": "40mm",
+    "image": "/product/Su-57TW40-1.jpg",
+    "images": [
+      "/product/Su-57TW40-1.jpg",
+      "/product/Su-57TW40-2.jpg",
+      "/product/Su-57TW40-3.jpg",
+      "/product/Su-57TW40-4.jpg",
+      "/product/Su-57TW40-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 6590,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 9990,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "XFly Twin 40mm F-14 Tomcat เจ็ทจิ๋วพลังขับเคลื่อนพัดลมไฟฟ้าคู่ Twin 40mm EDF มาพร้อมไฮไลท์เด่นกลไกพับปีกกาง-ลู่ปีกได้จริงกลางอากาศเพื่อทำความเร็วและแรงยกที่ต่างกัน ตัวลำทำจากโฟม EPO น้ำหนักเบา บินง่ายและให้ความคล่องตัวสูงในขนาดพกพาสะดวก สิ่งที่ต้องมีคือแบตเตอรี่ขนาด 4S LiPo 1300–2200mAh และมีความยาวปีก (Wingspan) 760 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "xfly-twin-40mm-f15",
+    "name": "XFly Twin 40MM F-15",
+    "description": "เครื่องบินเจ็ทบังคับสเกลสมจริง Twin 40mm EDF F-15 Eagle ระบบ 4CH โฟม EPO บินง่าย ขนาดปีก 710mm",
+    "price": 6590,
+    "originalPrice": null,
+    "category": "CutJet",
+    "size": "40mm",
+    "image": "/product/f15TW40-1.jpg",
+    "images": [
+      "/product/f15TW40-1.jpg",
+      "/product/f15TW40-2.jpg",
+      "/product/f15TW40-3.jpg",
+      "/product/f15TW40-4.jpg",
+      "/product/f15TW40-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 6590,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 9990,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "XFly Twin 40mm F-15 Eagle โมเดลเจ็ทขับเคลื่อนพัดลมไฟฟ้าคู่ Twin 40mm EDF ถอดแบบลายพรางทะเลทรายสุดเท่ ตัวลำทำจากโฟม EPO น้ำหนักเบาแต่เหนียวทนทาน ให้แรงขับดันต่อน้ำหนักที่ดีเยี่ยม บินง่าย คล่องตัวสูง เหมาะสำหรับพกพาไปบินได้ทุกที่ สิ่งที่ต้องมีคือแบตเตอรี่ขนาด 4S LiPo 1300–2200mAh และมีความยาวปีก (Wingspan) 710 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "xfly-twin-40mm-f18hornet",
+    "name": "XFly Twin 40MM F-18 Hornet",
+    "description": "เครื่องบินบังคับเจ็ทสเกล XFly Twin 40mm F-18 Hornet EDF ระบบ 4CH-6CH โฟม EPO บินสนุก คล่องตัวสูง ขนาดปีก 588mm",
+    "price": 6590,
+    "originalPrice": null,
+    "category": "CutJet",
+    "size": "40mm",
+    "image": "/product/f18tw40-1.jpg",
+    "images": [
+      "/product/f18tw40-1.jpg",
+      "/product/f18TW40-2.jpg",
+      "/product/f18TW40-3.jpg",
+      "/product/f18TW40-4.jpg",
+      "/product/f18TW40-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 6390,
+        "originalPrice": 6590,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 9990,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "XFly Twin 40mm F-18 Hornet เครื่องบินเจ็ทบังคับวิทยุสเกลสวยงาม ขับเคลื่อนด้วยพัดลมไฟฟ้า EDF ขนาด 40 มม. คู่ ให้เสียงและพละกำลังที่ดุดัน ตัวลำทำจากโฟม EPO น้ำหนักเบาแต่ทนทาน ควบคุมง่ายและตอบสนองได้คล่องตัวสูง เหมาะสำหรับผู้เล่นที่ชื่นชอบความเร็วและเครื่องเจ็ททรงสเกล ใช้แบตขนาด 4S LiPo 1300–2200mAh ความยาวปีก (Wingspan) 588 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "xfly-twin-40mm-f22",
+    "name": "XFly Twin 40MM F-22 Raptor",
+    "description": "เครื่องบินบังคับเจ็ทสเกล XFly Twin 40mm F-22 Raptor EDF ระบบ 4CH โฟม EPO สมรรถนะสูง บินลัดฟ้าได้นิ่ง ขนาดปีก 700mm",
+    "price": 6390,
+    "originalPrice": 6590,
+    "category": "CutJet",
+    "size": "40mm",
+    "image": "/product/f22TW40-1.jpg",
+    "images": [
+      "/product/f22tw40-1.jpg",
+      "/product/f22TW40-2.jpg",
+      "/product/f22TW40-3.jpg",
+      "/product/f22TW40-4.jpg",
+      "/product/f22TW40-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 6390,
+        "originalPrice": 6590,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 9890,
+        "originalPrice": 9990,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "XFly Twin 40mm F-22 Raptor เครื่องบินเจ็ทบังคับวิทยุถอดแบบสเกลสวยงาม ขับเคลื่อนด้วยขุมพลังพัดลมไฟฟ้าคู่ EDF 40 มม. ให้แรงขับดันที่ยอดเยี่ยม ตัวลำผลิตจากโฟม EPO แข็งแรง น้ำหนักเบา ออกแบบให้รับแรงยกสูง บินท่า High Alpha และผาดโผนได้อย่างยอดเยี่ยม เหมาะสำหรับผู้เล่นที่หลงใหลในความคล่องตัวของเครื่องขับไล่สเตลธ์ ใช้แบตขนาด 4S LiPo 1300–2600mAh ความยาวปีก (Wingspan) 700 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "xfly-twin-50mm-a10",
+    "name": "XFly Twin 50mm A-10 Thunderbolt",
+    "description": "เครื่องบินบังคับเจ็ทสเกล XFly Twin 40mm F-22 Raptor EDF ระบบ 4CH โฟม EPO สมรรถนะสูง บินลัดฟ้าได้นิ่ง ขนาดปีก 700mm",
+    "price": 6990,
+    "originalPrice": null,
+    "category": "CutJet",
+    "size": "50mm",
+    "image": "/product/a10tw50-1.jpg",
+    "images": [
+      "/product/a10tw50-1.jpg",
+      "/product/a10tw50-2.jpg",
+      "/product/a10tw50-3.jpg",
+      "/product/a10tw50-4.jpg",
+      "/product/a10tw50-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 6990,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 10390,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "XFly Twin 50mm A-10 Thunderbolt II เครื่องบินเจ็ทบังคับวิทยุสเกลย่อส่วนยอดนิยม ขับเคลื่อนด้วยขุมพลังพัดลมไฟฟ้าคู่ EDF 50 มม. แบบ 12 ใบพัด ให้พละกำลังแรงบิดที่ดีเยี่ยมและเสียงที่สมจริง บินง่าย มีเสถียรภาพสูงในความเร็วต่ำตามสไตล์เครื่องโจมตี เหมาะสำหรับผู้เล่นที่ชอบความดุดัน ใช้แบตขนาด 4S LiPo 2200–2600mAh ความยาวปีก (Wingspan) 740 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "xfly-twin-50mm-su27",
+    "name": "XFly Twin 50mm Su-27",
+    "description": "เครื่องบินบังคับเจ็ทสเกล XFly Twin 50mm Su-27 Flanker EDF ระบบ 4CH โฟม EPO ดีไซน์เฉี่ยว บินผาดโผนนิ่ง ขนาดปีก 720mm",
+    "price": 7890,
+    "originalPrice": null,
+    "category": "CutJet",
+    "size": "50mm",
+    "image": "/product/sutw50-1.jpg",
+    "images": [
+      "/product/sutw50-1.jpg",
+      "/product/sutw50-2.jpg",
+      "/product/sutw50-3.jpg",
+      "/product/sutw50-4.jpg",
+      "/product/sutw50-5.jpg"
+    ],
+    "options": [
+      { "label": "ระบบช่วยทรงตัว (ไจโร)", "have": false },
+      { "label": "ระบบแฟลบ", "have": false },
+      { "label": "ระบบเก็บล้อ", "have": false },
+      { "label": "ระบบไฟรอบลำ", "have": false }
+    ],
+    "packages": [
+      {
+        "label": "ชุด PNP",
+        "price": 7890,
+        "originalPrice": null,
+        "description": "ขาดแบตเตอรี่, เครื่องชาร์จ, รีโมทคอนโทรล, ตัวรับสัญญาณ"
+      },
+      {
+        "label": "ชุด RTF พร้อมบิน",
+        "price": 13990,
+        "originalPrice": null,
+        "description": "ครบชุด พร้อมรีโมท, แบตเตอรี่, เครื่องชาร์จ บินได้ทันที"
+      }
+    ],
+    "fullDescription": "XFly Twin 50mm A-10 Thunderbolt II เครื่องบินเจ็ทบังคับวิทยุสเกลย่อส่วนยอดนิยม ขับเคลื่อนด้วยขุมพลังพัดลมไฟฟ้าคู่ EDF 50 มม. แบบ 12 ใบพัด ให้พละกำลังแรงบิดที่ดีเยี่ยมและเสียงที่สมจริง บินง่าย มีเสถียรภาพสูงในความเร็วต่ำตามสไตล์เครื่องโจมตี เหมาะสำหรับผู้เล่นที่ชอบความดุดัน ใช้แบตขนาด 4S LiPo 2200–2600mAh ความยาวปีก (Wingspan) 740 mm",
+    "inStock": true,
+    "featured": false,
+    "active": true
+  }
+]
