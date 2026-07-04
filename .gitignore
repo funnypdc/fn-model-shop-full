@@ -1,7 +1,7 @@
 node_modules/
 .next/
-out/
-assets-out/
-.env*
-public/product/
-public/slide/
+# out/
+# assets-out/
+# .env*
+# public/product/
+# public/slide/
