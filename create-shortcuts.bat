@@ -14,7 +14,8 @@ powershell -NoProfile -Command ^
   "  @{ name='category-cutjet.json';     target='%ROOT%data\category-cutjet.json' }," ^
   "  @{ name='products.example.jsonc';   target='%ROOT%data\products.example.jsonc' }," ^
   "  @{ name='products.json';            target='%ROOT%data\products.json' }," ^
-  "  @{ name='slide.json';               target='%ROOT%data\slide.json' }" ^
+  "  @{ name='slide.json';               target='%ROOT%data\slide.json' }," ^
+  "  @{ name='deploy';                   target='%ROOT%deploy.bat' }" ^
   ");" ^
   "foreach ($item in $items) {" ^
   "  $lnk = $sh.CreateShortcut('%DEST%\' + $item.name + '.lnk');" ^
