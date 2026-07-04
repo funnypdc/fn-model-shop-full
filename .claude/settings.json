@@ -7,7 +7,8 @@
       "Bash(gh --version)",
       "Bash(gh auth *)",
       "PowerShell(winget install --id GitHub.cli --silent --accept-package-agreements --accept-source-agreements 2>&1)",
-      "Bash(mkdir -p \"d:/FN-Model/fn-model-shop/.github/workflows\" && echo \"done\")"
+      "Bash(mkdir -p \"d:/FN-Model/fn-model-shop/.github/workflows\" && echo \"done\")",
+      "PowerShell(cmd /c \"d:\\\\FN-Model\\\\fn-model-shop\\\\create-shortcuts.bat\")"
     ],
     "additionalDirectories": [
       "d:\\FN-Model\\fn-model-shop\\.github"
